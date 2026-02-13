@@ -1,0 +1,37 @@
+class Solution {
+public:
+    void dfs(vector<vector<int>>& image, int r, int c, int oldColor, int newColor) {
+
+        int rows = image.size();
+        int cols = image[0].size();
+
+        // boundary + color check
+        if (r < 0 || c < 0 || r >= rows || c >= cols ||
+            image[r][c] != oldColor)
+            return;
+
+        // color change
+        image[r][c] = newColor;
+
+        // explore 4 directions
+        dfs(image, r+1, c, oldColor, newColor);
+        dfs(image, r-1, c, oldColor, newColor);
+        dfs(image, r, c+1, oldColor, newColor);
+        dfs(image, r, c-1, oldColor, newColor);
+    }
+
+    vector<vector<int>> floodFill(vector<vector<int>>& image,
+                                  int sr, int sc, int color) {
+
+        int oldColor = image[sr][sc];
+
+        // avoid infinite loop
+        if (oldColor == color)
+            return image;
+
+        dfs(image, sr, sc, oldColor, color);
+
+        return image;
+    }
+};
+

@@ -22,12 +22,9 @@ public:
         for(int i = 0; i < nums.size(); i++) {
             int left = target - nums[i];
 
-            // check: kya required value pehle aa chuki hai?
             if(mp.find(left) != mp.end()) {
                 return { mp[left], i };
             }
-
-            // current value ko map me store karo
             mp[nums[i]] = i;
         }
         return {-1, -1};

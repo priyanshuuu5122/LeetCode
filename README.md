@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/priyanshuuu5122/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/priyanshuuu5122/LeetCode/tree/master/0409-longest-palindrome) |
 ## String
 |  |
@@ -33,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshuuu5122/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/priyanshuuu5122/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/priyanshuuu5122/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/priyanshuuu5122/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/priyanshuuu5122/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

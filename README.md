@@ -19,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshuuu5122/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/priyanshuuu5122/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/priyanshuuu5122/LeetCode/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/priyanshuuu5122/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/priyanshuuu5122/LeetCode/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshuuu5122/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/priyanshuuu5122/LeetCode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/priyanshuuu5122/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyanshuuu5122/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/priyanshuuu5122/LeetCode/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyanshuuu5122/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |

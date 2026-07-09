@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/priyanshuuu5122/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/priyanshuuu5122/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/priyanshuuu5122/LeetCode/tree/master/0409-longest-palindrome) |
+| [0796-rotate-string](https://github.com/priyanshuuu5122/LeetCode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshuuu5122/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/priyanshuuu5122/LeetCode/tree/master/0239-sliding-window-maximum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/priyanshuuu5122/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

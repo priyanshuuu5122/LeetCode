@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/priyanshuuu5122/LeetCode/tree/master/0035-search-insert-position) |
 | [0239-sliding-window-maximum](https://github.com/priyanshuuu5122/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshuuu5122/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0735-asteroid-collision](https://github.com/priyanshuuu5122/LeetCode/tree/master/0735-asteroid-collision) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/priyanshuuu5122/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshuuu5122/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/priyanshuuu5122/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting

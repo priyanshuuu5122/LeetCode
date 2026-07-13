@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshuuu5122/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/priyanshuuu5122/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyanshuuu5122/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyanshuuu5122/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/priyanshuuu5122/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshuuu5122/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshuuu5122/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshuuu5122/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyanshuuu5122/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/priyanshuuu5122/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |

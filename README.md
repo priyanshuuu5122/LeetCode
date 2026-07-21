@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/priyanshuuu5122/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priyanshuuu5122/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/priyanshuuu5122/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/priyanshuuu5122/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshuuu5122/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/priyanshuuu5122/LeetCode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/priyanshuuu5122/LeetCode/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshuuu5122/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priyanshuuu5122/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming

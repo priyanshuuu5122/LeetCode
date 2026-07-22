@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyanshuuu5122/LeetCode/tree/master/0048-rotate-image) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/priyanshuuu5122/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshuuu5122/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshuuu5122/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshuuu5122/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/priyanshuuu5122/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/priyanshuuu5122/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/priyanshuuu5122/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/priyanshuuu5122/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/priyanshuuu5122/LeetCode/tree/master/0056-merge-intervals) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyanshuuu5122/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/priyanshuuu5122/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0063-unique-paths-ii) |

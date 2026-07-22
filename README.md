@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/priyanshuuu5122/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/priyanshuuu5122/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshuuu5122/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/priyanshuuu5122/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priyanshuuu5122/LeetCode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyanshuuu5122/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/priyanshuuu5122/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/priyanshuuu5122/LeetCode/tree/master/0392-is-subsequence) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyanshuuu5122/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshuuu5122/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/priyanshuuu5122/LeetCode/tree/master/0994-rotting-oranges) |
 ## Prefix Sum

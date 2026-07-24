@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshuuu5122/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/priyanshuuu5122/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/priyanshuuu5122/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/priyanshuuu5122/LeetCode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshuuu5122/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/priyanshuuu5122/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priyanshuuu5122/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/priyanshuuu5122/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyanshuuu5122/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/priyanshuuu5122/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/priyanshuuu5122/LeetCode/tree/master/0392-is-subsequence) |

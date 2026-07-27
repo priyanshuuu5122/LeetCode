@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priyanshuuu5122/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/priyanshuuu5122/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/priyanshuuu5122/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3693-climbing-stairs-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/priyanshuuu5122/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/priyanshuuu5122/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyanshuuu5122/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [3693-climbing-stairs-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

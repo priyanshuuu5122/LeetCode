@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/priyanshuuu5122/LeetCode/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/priyanshuuu5122/LeetCode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshuuu5122/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshuuu5122/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshuuu5122/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priyanshuuu5122/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshuuu5122/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshuuu5122/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/priyanshuuu5122/LeetCode/tree/master/0207-course-schedule) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshuuu5122/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

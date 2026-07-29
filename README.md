@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/priyanshuuu5122/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/priyanshuuu5122/LeetCode/tree/master/0050-powx-n) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/priyanshuuu5122/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshuuu5122/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshuuu5122/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshuuu5122/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/priyanshuuu5122/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

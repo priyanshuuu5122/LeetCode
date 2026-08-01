@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/priyanshuuu5122/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/priyanshuuu5122/LeetCode/tree/master/0050-powx-n) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/priyanshuuu5122/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0486-predict-the-winner](https://github.com/priyanshuuu5122/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshuuu5122/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshuuu5122/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshuuu5122/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/priyanshuuu5122/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshuuu5122/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/priyanshuuu5122/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/priyanshuuu5122/LeetCode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshuuu5122/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshuuu5122/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/priyanshuuu5122/LeetCode/tree/master/0735-asteroid-collision) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/priyanshuuu5122/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/priyanshuuu5122/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/priyanshuuu5122/LeetCode/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyanshuuu5122/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [3693-climbing-stairs-ii](https://github.com/priyanshuuu5122/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Monotonic Stack
@@ -326,4 +329,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/priyanshuuu5122/LeetCode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/priyanshuuu5122/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/priyanshuuu5122/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
